@@ -16,16 +16,16 @@ Operating System: Three Easy Pieces (v0.91) 的非官方翻译版
 
 # 目录
 
-- [ ] **To Everyone**-致所有人
-- [ ] **To Educators**-致教育者
-- [ ] **To Students**-致学生
-- [ ] **Acknowledgments**-鸣谢
-- [ ] **Final Words**-最后的话
-- [ ] **References**-参考文献
+- [x] **To Everyone**-致所有人
+- [x] **To Educators**-致教育者
+- [x] **To Students**-致学生
+- [x] **Acknowledgments**-鸣谢
+- [x] **Final Words**-最后的话
+- [x] **References**-参考文献
 
 ---
 
-- [ ] Chapter 1: **A Dialogue on the Book**-关于本书的对话
+- [x] Chapter 1: **A Dialogue on the Book**-关于本书的对话
 
 - [ ] Chapter 2: **Introduction to Operating Systems**-操作系统介绍
 
